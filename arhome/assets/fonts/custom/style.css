@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?6ktm2n');
+  src:  url('fonts/icomoon.eot?6ktm2n#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?6ktm2n') format('truetype'),
+    url('fonts/icomoon.woff?6ktm2n') format('woff'),
+    url('fonts/icomoon.svg?6ktm2n#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-network:before {
+  content: "\e900";
+}
+.icon-emergency-call:before {
+  content: "\e901";
+}
+.icon-headphones:before {
+  content: "\e902";
+}
+.icon-guarantee-certificate:before {
+  content: "\e903";
+}
+.icon-user:before {
+  content: "\e904";
+}
+.icon-group:before {
+  content: "\e905";
+}
+.icon-tap:before {
+  content: "\e906";
+}
+.icon-tap-1:before {
+  content: "\e907";
+}
+.icon-tap-2:before {
+  content: "\e908";
+}
+.icon-click:before {
+  content: "\e909";
+}
+.icon-select:before {
+  content: "\e90a";
+}
+.icon-difference:before {
+  content: "\e90b";
+}
+.icon-searching:before {
+  content: "\e90c";
+}
+.icon-search:before {
+  content: "\e90d";
+}
+.icon-search-1:before {
+  content: "\e90e";
+}
+.icon-clock:before {
+  content: "\e90f";
+}
+.icon-target:before {
+  content: "\e910";
+}
+.icon-target-1:before {
+  content: "\e911";
+}
+.icon-behance:before {
+  content: "\e912";
+}
+.icon-behance-1:before {
+  content: "\e913";
+}
+.icon-dashboard:before {
+  content: "\e914";
+}
+.icon-dashboard-1:before {
+  content: "\e915";
+}
+.icon-analytics:before {
+  content: "\e916";
+}
+.icon-responsive:before {
+  content: "\e917";
+}
+.icon-responsive-1:before {
+  content: "\e918";
+}
+.icon-responsive-2:before {
+  content: "\e919";
+}
+.icon-devices:before {
+  content: "\e91a";
+}
+.icon-checked:before {
+  content: "\e91b";
+}
+.icon-success:before {
+  content: "\e91c";
+}
+.icon-success-1:before {
+  content: "\e91d";
+}
+.icon-house:before {
+  content: "\e91e";
+}
+.icon-home:before {
+  content: "\e91f";
+}
+.icon-building:before {
+  content: "\e920";
+}
+.icon-building-1:before {
+  content: "\e921";
+}
+.icon-skyline:before {
+  content: "\e922";
+}
+.icon-save:before {
+  content: "\e923";
+}
+.icon-apartment:before {
+  content: "\e924";
+}
+.icon-phone-call:before {
+  content: "\e925";
+}
+.icon-email:before {
+  content: "\e926";
+}
+.icon-email-1:before {
+  content: "\e927";
+}
+.icon-email-2:before {
+  content: "\e928";
+}
+.icon-plans:before {
+  content: "\e929";
+}
+.icon-interior-design:before {
+  content: "\e92a";
+}
+.icon-room:before {
+  content: "\e92b";
+}
+.icon-hotel:before {
+  content: "\e92c";
+}
+.icon-meeting:before {
+  content: "\e92d";
+}
+.icon-open-door:before {
+  content: "\e92e";
+}
+.icon-check:before {
+  content: "\e92f";
+}
+.icon-info:before {
+  content: "\e930";
+}
+.icon-search-2:before {
+  content: "\e931";
+}
+.icon-search-3:before {
+  content: "\e932";
+}
+.icon-humanpictos:before {
+  content: "\e933";
+}
+.icon-search-4:before {
+  content: "\e934";
+}
+.icon-swimming-pool:before {
+  content: "\e935";
+}
+.icon-swimming-pool-1:before {
+  content: "\e936";
+}
+.icon-map:before {
+  content: "\e937";
+}
+.icon-location:before {
+  content: "\e938";
+}
+.icon-parking:before {
+  content: "\e939";
+}
+.icon-parking-1:before {
+  content: "\e93a";
+}
+.icon-weightlifter:before {
+  content: "\e93b";
+}
+.icon-customer-service:before {
+  content: "\e93c";
+}
