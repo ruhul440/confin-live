@@ -4255,6 +4255,9 @@ section.newsletter-area:before {
   color: #fff;
   margin-bottom: 30px;
 }
+.blog-post-item-six.blog-post-bg .entry-content h3.title a{
+  color:  #fff;
+}
 .blog-post-item-six.blog-post-bg .entry-content .post-admin {
   margin-bottom: 30px;
 }
@@ -4596,19 +4599,19 @@ section.newsletter-area:before {
   background-color: transparent;
 }
 .blog-details-container .comments-respond form .form_control::-webkit-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::-moz-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control:-ms-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::-ms-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form textarea.form_control {
   height: 140px;
@@ -4952,19 +4955,19 @@ section.newsletter-area:before {
   font-family: 'Old Standard TT', serif;
 }
 .contact-wrapper-two .contact-form .form_control::-webkit-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::-moz-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control:-ms-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::-ms-input-placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::placeholder {
-  color: #2d2e32;
+  color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form textarea.form_control {
   padding-top: 15px;
