@@ -453,18 +453,23 @@ button {
   border-color: #425cec;
 }
 #search-modal .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 #search-modal .form_control::-moz-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 #search-modal .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 #search-modal .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 #search-modal .form_control::placeholder {
+  font-weight: 400;
   color: #fff;
 }
 #search-modal .search_btn {
@@ -1454,18 +1459,23 @@ header {
 }
 
 .hero-wrpper-two .hero-content .hero-apartments-search .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, .8);
 }
 .hero-wrpper-two .hero-content .hero-apartments-search .form_control::-moz-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, .8);
 }
 .hero-wrpper-two .hero-content .hero-apartments-search .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, .8);
 }
 .hero-wrpper-two .hero-content .hero-apartments-search .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, .8);
 }
 .hero-wrpper-two .hero-content .hero-apartments-search .form_control::placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, .8);
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2934,18 +2944,23 @@ section.newsletter-area:before {
   font-size: 17px;
 }
 .newsletter-wrapper-one .newsletter-form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 .newsletter-wrapper-one .newsletter-form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 .newsletter-wrapper-one .newsletter-form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 .newsletter-wrapper-one .newsletter-form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: #fff;
 }
 .newsletter-wrapper-one .newsletter-form .form_control::placeholder {
+  font-weight: 400;
   color: #fff;
 }
 .newsletter-wrapper-one .newsletter-form .form_control:focus {
@@ -4599,18 +4614,23 @@ section.newsletter-area:before {
   background-color: transparent;
 }
 .blog-details-container .comments-respond form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form .form_control::placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, 0.5);
 }
 .blog-details-container .comments-respond form textarea.form_control {
@@ -4648,19 +4668,19 @@ section.newsletter-area:before {
   height: 60px;
 }
 .sidebar-widget-area .widget.search-widget form .form_control::-webkit-input-placeholder {
-  font-weight: 500;
+  font-weight: 400;
 }
 .sidebar-widget-area .widget.search-widget form .form_control::-moz-placeholder {
-  font-weight: 500;
+  font-weight: 400;
 }
 .sidebar-widget-area .widget.search-widget form .form_control:-ms-input-placeholder {
-  font-weight: 500;
+  font-weight: 400;
 }
 .sidebar-widget-area .widget.search-widget form .form_control::-ms-input-placeholder {
-  font-weight: 500;
+  font-weight: 400;
 }
 .sidebar-widget-area .widget.search-widget form .form_control::placeholder {
-  font-weight: 500;
+  font-weight: 400;
 }
 .sidebar-widget-area .widget.search-widget form .search-btn {
   position: absolute;
@@ -4882,18 +4902,22 @@ section.newsletter-area:before {
   color: rgba(66, 92, 236, 1);
 }
 .contact-wrapper-one .contact-form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, 0.3);
   font-size: 16px;
 }
 .contact-wrapper-one .contact-form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, 0.3);
   font-size: 16px;
 }
 .contact-wrapper-one .contact-form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, 0.3);
   font-size: 16px;
 }
 .contact-wrapper-one .contact-form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(66, 92, 236, 0.3);
   font-size: 16px;
 }
@@ -4955,18 +4979,23 @@ section.newsletter-area:before {
   font-family: 'Old Standard TT', serif;
 }
 .contact-wrapper-two .contact-form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form .form_control::placeholder {
+  font-weight: 400;
   color: rgba(45, 46, 50, .5);
 }
 .contact-wrapper-two .contact-form textarea.form_control {
@@ -5016,18 +5045,23 @@ section.newsletter-area:before {
   height: 65px;
 }
 .contact-wrapper-three .contact-form form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .contact-wrapper-three .contact-form form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .contact-wrapper-three .contact-form form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .contact-wrapper-three .contact-form form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .contact-wrapper-three .contact-form form .form_control::placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .contact-wrapper-three .contact-form form textarea.form_control {
@@ -5285,18 +5319,23 @@ section.newsletter-area:before {
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .form_control::-webkit-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .form_control::-moz-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .form_control:-ms-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .form_control::-ms-input-placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .form_control::placeholder {
+  font-weight: 400;
   color: #2d2e32;
 }
 .footer-newsletter .newsletter-form .main-btn {
