@@ -2472,18 +2472,6 @@ header {
   position: relative;
   z-index: 1;
 }
-.skills-area-bg:after {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  max-height: 650px;
-  content: "";
-  background: url(../images/bg/skill-bg-1.png) no-repeat center/cover;
-  z-index: -1;
-  height: 100%;
-}
-
 .skill-content-box-one p {
   margin-bottom: 35px;
 }
