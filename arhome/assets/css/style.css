@@ -19,7 +19,7 @@
     03. Hero css
         ## Hero one css
         ## Hero two css
-        ## Areadcrumbs css
+        ## Breadcrumbs css
     04. About css
         ## About one css
         ## About two css
@@ -2020,7 +2020,6 @@ header {
   font-weight: 400;
   margin-right: 12px;
 }
-
 /*=========================
    6. Features css 
 ==========================*/
@@ -3414,6 +3413,32 @@ section.newsletter-area:before {
   font-family: "Font Awesome 5 Pro";
   font-weight: 400;
   color: #425cec;
+}
+ul.plans-details-ul li {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #f7f7f7;
+    padding: 10px 0;
+}
+ul.plans-details-ul li:first-of-type{
+  border-top: 0px solid;
+}
+ul.plans-details-ul li strong{
+  font-weight: 500;
+}
+.property-variation{
+  text-align: center;
+}
+.property-variation thead th {
+    padding: 40px 0 42px;
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: #fff;
+    background-color: #425cec;
+    font-weight: 500;
+    border: 0;
 }
 
 .features-item-three {
@@ -5056,41 +5081,6 @@ section.newsletter-area:before {
   height: 150px;
 }
 
-.contact-info-list .info-item {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-bottom: 30px;
-}
-@media (max-width: 767px) {
-  .contact-info-list .info-item {
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-  }
-}
-.contact-info-list .info-item .thumb, .contact-info-list .info-item .content {
-  width: 50%;
-}
-@media (max-width: 767px) {
-  .contact-info-list .info-item .thumb, .contact-info-list .info-item .content {
-    width: 100%;
-  }
-}
-.contact-info-list .info-item .thumb img {
-  width: 100%;
-}
-.contact-info-list .info-item .content {
-  padding-left: 35px;
-}
-@media (max-width: 767px) {
-  .contact-info-list .info-item .content {
-    padding-left: 0px;
-    margin-top: 30px;
-  }
-}
 .contact-info-list .info-item .content h3 {
   margin-bottom: 14px;
 }
