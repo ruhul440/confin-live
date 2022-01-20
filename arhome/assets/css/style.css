@@ -322,12 +322,12 @@ span.sub-title:after {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: rgba(66, 92, 236, 0.3);
+  background-color: rgba(66, 92, 236, 0.8);
   z-index: -1;
 }
 .breadcrumbs-area.bg_cover.bg-with-overlay:after,
 .hero-wrpper-two.bg-with-overlay:after {
-  background-color: rgba(45, 46, 50, 0.5);
+  background-color: rgba(45, 46, 50, 0.8);
 }
 .bg-with-overlay.bg-with-overlay-two:after {
   background-color: rgba(25, 23, 21, 0.86);
@@ -452,26 +452,7 @@ button {
 #search-modal .form_control:focus {
   border-color: #425cec;
 }
-#search-modal .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-#search-modal .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-#search-modal .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-#search-modal .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-#search-modal .form_control::placeholder {
-  font-weight: 400;
-  color: #fff;
-}
+
 #search-modal .search_btn {
   position: absolute;
   background: transparent;
@@ -1314,7 +1295,7 @@ header {
   padding: 220px 0 145px;
 }
 .hero-wrapper-one .single-slider:after {
-  background-color: rgba(45, 46, 50, 0.5);
+  background-color: rgba(45, 46, 50, 0.8);
 }
 .hero-wrapper-one .hero-content h1 {
     font-size: 70px;
@@ -1458,26 +1439,6 @@ header {
   margin-bottom: 23px;
 }
 
-.hero-wrpper-two .hero-content .hero-apartments-search .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, .8);
-}
-.hero-wrpper-two .hero-content .hero-apartments-search .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, .8);
-}
-.hero-wrpper-two .hero-content .hero-apartments-search .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, .8);
-}
-.hero-wrpper-two .hero-content .hero-apartments-search .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, .8);
-}
-.hero-wrpper-two .hero-content .hero-apartments-search .form_control::placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, .8);
-}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-wrpper-two .hero-content .hero-apartments-search .main-btn {
     padding: 13px 25px;
@@ -2930,26 +2891,7 @@ section.newsletter-area:before {
   font-weight: 500;
   font-size: 17px;
 }
-.newsletter-wrapper-one .newsletter-form .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-.newsletter-wrapper-one .newsletter-form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-.newsletter-wrapper-one .newsletter-form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-.newsletter-wrapper-one .newsletter-form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: #fff;
-}
-.newsletter-wrapper-one .newsletter-form .form_control::placeholder {
-  font-weight: 400;
-  color: #fff;
-}
+
 .newsletter-wrapper-one .newsletter-form .form_control:focus {
   border-color: #425cec;
 }
@@ -4626,26 +4568,7 @@ ul.plans-details-ul li strong{
   border-color: #425cec;
   background-color: transparent;
 }
-.blog-details-container .comments-respond form .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, 0.5);
-}
-.blog-details-container .comments-respond form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, 0.5);
-}
-.blog-details-container .comments-respond form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, 0.5);
-}
-.blog-details-container .comments-respond form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, 0.5);
-}
-.blog-details-container .comments-respond form .form_control::placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, 0.5);
-}
+
 .blog-details-container .comments-respond form textarea.form_control {
   height: 140px;
 }
@@ -4680,21 +4603,7 @@ ul.plans-details-ul li strong{
 .sidebar-widget-area .widget.search-widget form .form_control {
   height: 60px;
 }
-.sidebar-widget-area .widget.search-widget form .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-}
-.sidebar-widget-area .widget.search-widget form .form_control::-moz-placeholder {
-  font-weight: 400;
-}
-.sidebar-widget-area .widget.search-widget form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-}
-.sidebar-widget-area .widget.search-widget form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-}
-.sidebar-widget-area .widget.search-widget form .form_control::placeholder {
-  font-weight: 400;
-}
+
 .sidebar-widget-area .widget.search-widget form .search-btn {
   position: absolute;
   top: 7px;
@@ -4908,36 +4817,13 @@ ul.plans-details-ul li strong{
   height: 60px;
   padding: 0 30px;
   font-size: 16px;
-  font-weight: 700;
-  font-family: 'Old Standard TT', serif;
+  font-weight: 400;
+  font-family: 'Jost', serif;
   margin-bottom: 30px;
   border: 1px solid rgba(66, 92, 236, 1);
   color: rgba(66, 92, 236, 1);
 }
-.contact-wrapper-one .contact-form .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, 0.3);
-  font-size: 16px;
-}
-.contact-wrapper-one .contact-form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, 0.3);
-  font-size: 16px;
-}
-.contact-wrapper-one .contact-form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, 0.3);
-  font-size: 16px;
-}
-.contact-wrapper-one .contact-form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(66, 92, 236, 0.3);
-  font-size: 16px;
-}
-.contact-wrapper-one .contact-form .form_control::placeholder {
-  color: rgba(66, 92, 236, 0.3);
-  font-size: 16px;
-}
+
 .contact-wrapper-one .contact-form textarea.form_control {
   padding-top: 15px;
 }
@@ -4946,9 +4832,8 @@ ul.plans-details-ul li strong{
   height: 65px;
   padding: 0 30px;
   font-size: 16px;
-  font-weight: 700;
-  color: rgba(66, 92, 236, 0.3);;
-  font-family: 'Old Standard TT', serif;
+  font-weight: 400;
+  font-family: 'Jost', serif;
   line-height: 65px;
   border-radius: 0px;
   border: 1px solid rgba(66, 92, 236, 1);
@@ -4987,30 +4872,11 @@ ul.plans-details-ul li strong{
   background-color: rgba(66, 92, 236, 0.05);
   height: 65px;
   padding: 0 30px;
-  font-size: 20px;
-  font-weight: 700;
-  font-family: 'Old Standard TT', serif;
-}
-.contact-wrapper-two .contact-form .form_control::-webkit-input-placeholder {
+  font-size: 16px;
   font-weight: 400;
-  color: rgba(45, 46, 50, .5);
+  font-family: 'Jost', serif;
 }
-.contact-wrapper-two .contact-form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, .5);
-}
-.contact-wrapper-two .contact-form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, .5);
-}
-.contact-wrapper-two .contact-form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, .5);
-}
-.contact-wrapper-two .contact-form .form_control::placeholder {
-  font-weight: 400;
-  color: rgba(45, 46, 50, .5);
-}
+
 .contact-wrapper-two .contact-form textarea.form_control {
   padding-top: 15px;
   height: 230px;
@@ -5057,26 +4923,7 @@ ul.plans-details-ul li strong{
   margin-bottom: 15px;
   height: 65px;
 }
-.contact-wrapper-three .contact-form form .form_control::-webkit-input-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.contact-wrapper-three .contact-form form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.contact-wrapper-three .contact-form form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.contact-wrapper-three .contact-form form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.contact-wrapper-three .contact-form form .form_control::placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
+
 .contact-wrapper-three .contact-form form textarea.form_control {
   height: 150px;
 }
@@ -5293,29 +5140,10 @@ ul.plans-details-ul li strong{
   width: 100%;
   height: 55px;
   background-color: #fff;
-  font-weight: 700;
-  color: #2d2e32;
-}
-.footer-newsletter .newsletter-form .form_control::-webkit-input-placeholder {
   font-weight: 400;
   color: #2d2e32;
 }
-.footer-newsletter .newsletter-form .form_control::-moz-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.footer-newsletter .newsletter-form .form_control:-ms-input-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.footer-newsletter .newsletter-form .form_control::-ms-input-placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
-.footer-newsletter .newsletter-form .form_control::placeholder {
-  font-weight: 400;
-  color: #2d2e32;
-}
+
 .footer-newsletter .newsletter-form .main-btn {
   padding: 14px 38px;
   line-height: 27px;
