@@ -8,3 +8,13 @@
 
 font-family: 'Lato', sans-serif;
 font-family: 'Libre Baskerville', serif;
+
+
+#b68c5a = Beige === rgba(182, 140, 90, 1)
+
+#00062c = Dark blue
+
+Title Color: #00062c
+Text Color: #696e7c
+Black: #1c202e --- section
+rgba(0, 6, 44, 0.75)
